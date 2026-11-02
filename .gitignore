@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+# 実際の対局ログ・抽出データ（他のプレイヤーの発言を含むため公開しない）
+logs/
+logs_strong/
+flow_*
+games_*.jsonl
+log_list*.txt
+log_names.json
+lessons_pending*.txt
+bench_results/
+read_test_results/
+scenes_*.jsonl
+read_test.jsonl
+selfplay_logs/
+.env
